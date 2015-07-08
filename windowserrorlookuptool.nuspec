@@ -4,7 +4,7 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>windowserrorlookuptool</id>
-    <title>Gunner's File Type Editor</title>
+    <title>Gunner's Windows Error Lookup Tool (welt)</title>
     <version>3.0.7</version> 
     <authors>Gunner</authors>
     <owners>Darwin Sanoy (CSI-Windows.com)</owners>
