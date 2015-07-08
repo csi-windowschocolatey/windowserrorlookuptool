@@ -1,0 +1,2 @@
+
+Uninstall-ChocolateyZipPackage windowserrorlookuptool welt.zip
